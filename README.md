@@ -33,7 +33,8 @@
 <a href="http://kaispread.notion.site/Dev-wiki-de9d4e8072cc488d89ded6bff532da7a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-034511?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kiwoo-lee-a9636924a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-&nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAispread)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sign0121)](https://solved.ac/sign0121/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sign0121)](https://solved.ac/sign0121/) &nbsp;
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKAispread&count_bg=%233DBFC8&title_bg=%23FF8B00&icon=qiwi.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
